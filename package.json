@@ -1,0 +1,19 @@
+{
+  "name": "upvote",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.2.31",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "eslint": "^8.10.0",
+    "eslint-plugin-vue": "^8.5.0",
+    "prettier": "2.5.1",
+    "vite": "^1.0.0-rc.13"
+  }
+}
