@@ -107,7 +107,7 @@ export default {
       this.$store.commit("setAsActive", index);
     },
     addUpvoteOn(index) {
-      console.log("vote on", index);
+      // console.log("vote on", index);
       this.$store.commit("voteOn", index);
       this.$store.commit("setAsActive", index);
     },
