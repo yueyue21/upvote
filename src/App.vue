@@ -4,7 +4,8 @@
 
 <script>
 import Upvote from "./components/upvote.vue";
-export default {
+export default //some updates
+{
   name: "App",
   components: {
     Upvote,
